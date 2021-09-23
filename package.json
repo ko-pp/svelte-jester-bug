@@ -10,9 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "autoprefixer": "^10.3.5",
     "compression": "^1.7.1",
     "polka": "next",
-    "sirv": "^1.0.0"
+    "postcss": "^8.3.7",
+    "sirv": "^1.0.0",
+    "svelte-preprocess": "^4.9.5"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
